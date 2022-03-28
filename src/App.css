@@ -152,6 +152,11 @@ body {
   background-color: rgba(102, 90, 173, 0.685);
 }
 
+@media only screen and (min-device-width: 280px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 3) {
+  .custom-container-search {
+      width: 100%;
+  }
+}
 
 @keyframes App-logo-spin {
   from {
