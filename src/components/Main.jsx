@@ -46,7 +46,7 @@ export default class Main extends React.Component {
       <div className="App">
         <Navbar expand="lg" fixed="top">
           <Navbar.Text>ChatApp</Navbar.Text>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand>
             <img src={logo} alt="ChatApp logo" className="logo" />
           </Navbar.Brand>
           <Form>
