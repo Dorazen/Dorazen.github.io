@@ -6,7 +6,7 @@ body {
 
 .focus {
   margin-bottom: 5em;
-  color: transparent;
+  visibility: hidden;
 }
 
 .App {
